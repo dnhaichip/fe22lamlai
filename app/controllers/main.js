@@ -103,6 +103,10 @@ $(document).ready(function(){
     
         $('#tblDanhSachNguoiDung').html(content);
     }
- 
+    
+    function HelloWord(){
+        console.log('hello word');
+        
+    }
 
 })
